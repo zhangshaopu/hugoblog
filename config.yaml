@@ -1,0 +1,15 @@
+baseURL: "https://zhangshaopu.github.io/"
+languageCode: "en-us"
+title: "pupupu"
+pygmentsstyle: 'monokai'
+theme : 'hugo-theme-novela'
+paginate: 6
+social:
+  twitter: "#"
+  github: "#"
+  instagram: "#"
+  linkedin: "#"
+  dribbble: "#"
+  youtube: "#"
+taxonomies:
+  author: zsp

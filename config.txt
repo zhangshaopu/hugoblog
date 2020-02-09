@@ -1,0 +1,32 @@
+
+
+baseURL = 'https://zhangshaopu.github.io/'
+title = 'pupupu'
+theme = 'hyde'
+
+[Menus]
+  main = [
+      {Name = "Githubuse"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/username/"}
+  ]
+
+[params]
+  description = "student violin player coder"
+  themeColor = "theme-base-08"
+
+
+googleAnalytics = "Your tracking code"
+
+
+#licenselink = "https://github.com/spf13/hyde/blob/master/LICENSE.md"
+
+tags = ["blog", "company"]
+features = ["blog", "themes", "disqus"]
+min_version = 0.53
+
+[author]
+    name = "zsp"
+    homepage = "https://zhangshaopu.github.io/"
+
+# If Porting existing theme
+
